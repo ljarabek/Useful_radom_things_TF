@@ -3,7 +3,7 @@ Random personally useful things in Tenosrflow to avoid writing same code multipl
 
 
 
-#tf_IO.py:
+# tf_IO.py:
 
 save(): makes .pickle file with current session weights. 
 load(): assigns variable vaiues in session with saved weights if they are in .pickle file
